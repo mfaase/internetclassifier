@@ -1,7 +1,7 @@
 #import modules
 import os
 
-def indexed_list_init(somefile)
+def indexed_list_init(somefile):
     '''
     run this script ONLY ONCE, will wipe your memory file if not careful
     
