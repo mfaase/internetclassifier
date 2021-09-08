@@ -1,2 +1,3 @@
 # internetclassifier
-A set of fucntions that will search images of elements from user-defined lists, and allows the user to categorize these for building datasets.
+A set of fucntions that will search images of strings found in a users' document, and allows the user to categorize these based on the image shown. 
+Used for building datasets for image classifiers.
