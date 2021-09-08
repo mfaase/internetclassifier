@@ -1,3 +1,16 @@
+import os
+import random
+
+import cv2
+import numpy as np
+from skimage import io
+
+import requests
+import urllib
+from urllib.request import urlopen
+from bs4 import BeautifulSoup
+
+
 #define itemrater program
 def rater(itemname):
     
