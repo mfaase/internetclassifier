@@ -1,7 +1,7 @@
 #import modules
 import os
 
-def uniquetxt(oldtxt, newtxt)
+def uniquetxt(oldtxt, newtxt):
     '''
     This script returns a new txt file only containing unique lines from two specified files.
     Provide txt stringnames as arguments, which should be in the same directory as the script.
